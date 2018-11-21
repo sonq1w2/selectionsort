@@ -1,2 +1,2 @@
-# selectionsort
-selectionsort 구현
+selection sort는 첫 노드부터 나머지 다음 값들과 하나씩 전부 비교하면서 정렬하는 방법이다.
+
